@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "972490127329",
+    "firebase_url": "https://turo-88676.firebaseio.com",
+    "project_id": "turo-88676",
+    "storage_bucket": "turo-88676.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972490127329:android:60bad05469bc2a30",
+        "android_client_info": {
+          "package_name": "com.turo.turo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972490127329-i6kiu3scbclka9ieeu3rf0qiv913h714.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.turo.turo",
+            "certificate_hash": "c1675db525d587b0089bda45acfbb49e51bd1a23"
+          }
+        },
+        {
+          "client_id": "972490127329-u4jca8bqcgon9pb919n1h3clc7ti6dv9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV6WOZ1gu7IfQ0M396Vn4MvN9XP2Kl7Oc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972490127329-u4jca8bqcgon9pb919n1h3clc7ti6dv9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
